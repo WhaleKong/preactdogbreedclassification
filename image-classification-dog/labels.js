@@ -1,0 +1,13 @@
+export default [
+  "beagle",
+  "boxer",
+  "chow",
+  "entlebucher mountain",
+  "golden retriever",
+  "old english sheepdog",
+  "pug",
+  "rottweiler",
+  "saint bernard",
+  "Shih-Tzu",
+  "siberian husky",
+];
